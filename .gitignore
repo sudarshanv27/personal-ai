@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/cache/
+data/temporary/
+
+# Python test/cache
+.pytest_cache/
+.mypy_cache/
